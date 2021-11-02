@@ -1,6 +1,7 @@
 # Talks
 A list of talks on journalism, often delivered to classes or at conferences, given in the past few years.
 
+- [**Introduction to data-driven investigations**](https://github.com/tomcardoso/intro-data-investigation): On conducting data-driven investigations. Talk originally given virtually to an Advanced Data Journalism and Investigative Research class at Wilfrid Laurier University on November 2, 2021.
 - [**Bias Behind Bars for University of Ottawa**](https://github.com/tomcardoso/uottawa-bias-2021): A talk on an investigation into systemic bias in Canada's federal prison risk assessments, given to a Sentencing and Corrections class at the Univeristy of Ottawa on October 21, 2021.
 - [**Introduction to enterprise journalism**](https://github.com/tomcardoso/intro-enterprise-journalism): An introduction to investigative and enterprise journalism. This talk was originally given virtually for [Shared Bylines](https://www.sharedbylines.com/) on October 13, 2021.
 - [**Bias Behind Bars for 2021 Computation + Journalism conference**](https://github.com/tomcardoso/cplusj-bias-2021): A short talk on investigating systemic bias in Canada’s federal prison risk assessments, given at the virtual [Computation + Journalism 2021 conference](https://cj2021.northeastern.edu/) on February 19, 2021.
